@@ -33,7 +33,7 @@ spring.mvc.view.suffix: .jsp
     <version>3.0.1</version>
 </dependency>
 ```
-##Lombox
+## Lombox
 ```properties
 <dependency>
     <groupId>org.projectlombok</groupId>
@@ -42,7 +42,7 @@ spring.mvc.view.suffix: .jsp
     <scope>provided</scope>
 </dependency>
 ```
-##MSSQL JDBC
+## MSSQL JDBC
 ```properties
 <dependency>
     <groupId>com.microsoft.sqlserver</groupId>
@@ -50,7 +50,7 @@ spring.mvc.view.suffix: .jsp
     <version>9.4.1.jre16</version>
 </dependency>
 ```
-##MySQL
+## MySQL
 ```properties
 <dependency>
     <groupId>mysql</groupId>
@@ -58,14 +58,14 @@ spring.mvc.view.suffix: .jsp
     <version>8.0.31</version>
 </dependency>
 ```
-##JPA
+## JPA
 ```properties
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-data-jpa</artifactId>
 </dependency>
 ```
-##BeanUtils
+## BeanUtils
 ```properties
 <dependency>
     <groupId>commons-beanutils</groupId>
@@ -73,18 +73,18 @@ spring.mvc.view.suffix: .jsp
     <version>1.9.4</version>
 </dependency>
 ```
-##Spring Validation
+## Spring Validation
 ```properties
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-validation</artifactId>
 </dependency>
 ```
-##Loop - JSTL
+## Loop - JSTL
 ```properties
 <%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
 ```
-##Form - JSTL
+## Form - JSTL
 ```properties
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 
