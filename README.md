@@ -4,8 +4,9 @@
 ```properties
 spring.mvc.view.prefix: /WEB-INF/view/
 spring.mvc.view.suffix: .jsp
+```
+## Hibernate
 
-`## Hibernate`
 <dependency>
     <groupId>org.example</groupId>
     <artifactId>example-artifact</artifactId>
