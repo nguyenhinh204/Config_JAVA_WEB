@@ -5,8 +5,8 @@ spring.mvc.view.suffix: .jsp</td>
 <h1>Hibernate</h1>
 <td>
   <dependency>
-    <groupId>org.hibernate</groupId>
-    <artifactId>hibernate-core-jakarta</artifactId>
-    <version>5.6.10.Final</version>
+    <groupId>org.hibernate</groupId><br>
+    <artifactId>hibernate-core-jakarta</artifactId><br>
+    <version>5.6.10.Final</version><br>
 </dependency>
 </td>
